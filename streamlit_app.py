@@ -73,7 +73,7 @@ def process_json(data):
     
     Guidelines:
     1. Keep translations natural sounding, not robotic or literal
-    2. Convert numbers or numerical values or currencies to words in 'hindi'. 
+    2. important : Convert numbers or numerical values to words in 'hindi' words. 
     3. Maintain English words that are commonly used in Hinglish conversation
     4. Consider context between sentences for a natural flow
     5. The output should feel like a casual conversation between Indians
